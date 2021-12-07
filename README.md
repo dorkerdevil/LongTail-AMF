@@ -18,3 +18,6 @@ python3 longtail.py targetip targetport  attackip attackerport
 
 ## Reference
 https://attackerkb.com/topics/5nZX40suYA/cve-2021-21980
+
+## Original Analyst
+• [wvu](https://twitter.com/wvuuuuuuuuuuuuu)
